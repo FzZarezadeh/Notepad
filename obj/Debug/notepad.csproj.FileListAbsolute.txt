@@ -1,0 +1,12 @@
+I:\دانشگاه\t1-barnameSazi\notepad\bin\Debug\notepad.exe.config
+I:\دانشگاه\t1-barnameSazi\notepad\bin\Debug\notepad.exe
+I:\دانشگاه\t1-barnameSazi\notepad\bin\Debug\notepad.pdb
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.csprojAssemblyReference.cache
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.Properties.Resources.resources
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.exe
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.pdb
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.frmmain.resources
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.frmabout.resources
+I:\دانشگاه\t1-barnameSazi\notepad\obj\Debug\notepad.frmfindreplace.resources
